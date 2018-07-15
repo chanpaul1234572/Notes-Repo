@@ -9,5 +9,5 @@ Anaconda with its sandboxed environment for scientific python packages and Docke
 3. Run the image and start an interactive shell : ```$ docker run -i -t continuumio/anaconda3 /bin/bash```
 4. Start Jupyter Notebook : ```$ docker run -i -t -p 8888:8888 continuumio/anaconda3 /bin/bash -c “/opt/conda/bin/conda install jupyter -y — quiet && mkdir /opt/notebooks && /opt/conda/bin/jupyter notebook — notebook-dir=/opt/notebooks — ip=’*’ — port=8888 — no-browser”```
 5. Open ```http://localhost:8888``` to view Jupyter notebook.
-6. !(Docker cheatsheet)
-[https://docs.docker.com/get-started/part2/#recap-and-cheat-sheet-optional]
+6. ![]
+(https://docs.docker.com/get-started/part2/#recap-and-cheat-sheet-optional)
