@@ -1,7 +1,7 @@
 # Installing Operating system images on macOS
 ## For a **Real Programmer**, you should do everything in Command line.
 **[Reference and thanks form Raspberry Pi](https://www.raspberrypi.org/documentation/installation/installing-images/mac.md)**
-
+##For a sdcard with a lock slider, the computer will see it as read/write. If it's fully at unlocked, it'll be read only.
 1. Open a terminal, then run:
    
    ```diskutil list``` 
