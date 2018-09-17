@@ -16,14 +16,16 @@ Chrome(with plugin)
 VS code
 Neovim
 Bracket
+BoostNote for markdown  
 
 ## Terminal:
 Iterm2
 
 ## Python:
+Python 2.7.10
 
-### Python3:
-Anaconda(not yet installed)
+### Python3 (default):
+Anaconda: /Users/paulchan/anaconda3/bin
 
 ### Python2.7:
 Pip
