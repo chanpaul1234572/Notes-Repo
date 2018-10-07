@@ -3,6 +3,9 @@
 ## Anti-virus
 Kaspersky endpoint
 
+## Mail Client:
+Spark 
+
 ## Software mangament:
 brew 
 
@@ -22,11 +25,12 @@ BoostNote for markdown
 Iterm2
 
 ## Python:
+Pipenv
 Python 2.7.10
-
+Ananconda Python 3.6.5
 ### Python3 (default):
 Anaconda: /Users/paulchan/anaconda3/bin
-
+venv: 3.5.6, 2,7,10
 ### Python2.7:
 Pip
 Wheels
@@ -137,3 +141,16 @@ To have launchd start dnsmasq now and restart at startup:
 
 ## Connection
 telnet
+Termius: ssh client
+
+## Web server
+Web server for chrome
+
+## package analyist
+ngrep
+
+## Workflow
+Alfred3
+
+## Command fuzzy finder
+fzf
